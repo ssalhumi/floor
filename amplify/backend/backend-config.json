@@ -6,7 +6,7 @@
 		}
 	},
 	"auth": {
-		"floorf355c09b": {
+		"floore0921fdb": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation",
 			"dependsOn": [],

@@ -16,5 +16,23 @@
                 "floorf355c09b": {}
             }
         }
+    },
+    "saraenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-floor-saraenv-34419-authRole",
+            "UnauthRoleArn": "arn:aws:iam::420433057004:role/amplify-floor-saraenv-34419-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::420433057004:role/amplify-floor-saraenv-34419-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-floor-saraenv-34419-deployment",
+            "UnauthRoleName": "amplify-floor-saraenv-34419-unauthRole",
+            "StackName": "amplify-floor-saraenv-34419",
+            "StackId": "arn:aws:cloudformation:us-east-1:420433057004:stack/amplify-floor-saraenv-34419/e43b0f90-3a97-11ea-8b4d-12926a34023c",
+            "AmplifyAppId": "d2fx3ryg1znfk7"
+        },
+        "categories": {
+            "auth": {
+                "floore0921fdb": {}
+            }
+        }
     }
 }
