@@ -10,6 +10,11 @@
             "StackName": "amplify-floor-floorenv-183413",
             "StackId": "arn:aws:cloudformation:us-east-1:322511190959:stack/amplify-floor-floorenv-183413/09865c20-3a4b-11ea-833c-12a48490849f",
             "AmplifyAppId": "d2jdud45b3952y"
+        },
+        "categories": {
+            "auth": {
+                "floorc20b3fc0": {}
+            }
         }
     }
 }
