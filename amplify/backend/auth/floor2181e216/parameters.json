@@ -1,8 +1,8 @@
 {
-    "identityPoolName": "floorc20b3fc0_identitypool_c20b3fc0",
+    "identityPoolName": "floor2181e216_identitypool_2181e216",
     "allowUnauthenticatedIdentities": false,
-    "resourceNameTruncated": "floorc20b3fc0",
-    "userPoolName": "floorc20b3fc0_userpool_c20b3fc0",
+    "resourceNameTruncated": "floor2181e216",
+    "userPoolName": "floor2181e216_userpool_2181e216",
     "autoVerifiedAttributes": [
         "email"
     ],
@@ -18,8 +18,7 @@
     "passwordPolicyMinLength": 8,
     "passwordPolicyCharacters": [],
     "requiredAttributes": [
-        "email",
-        "name"
+        "email"
     ],
     "userpoolClientGenerateSecret": true,
     "userpoolClientRefreshTokenValidity": 30,
@@ -29,9 +28,9 @@
     "userpoolClientReadAttributes": [
         "email"
     ],
-    "userpoolClientLambdaRole": "floorcc20b3fc0_userpoolclient_lambda_role",
+    "userpoolClientLambdaRole": "floor22181e216_userpoolclient_lambda_role",
     "userpoolClientSetAttributes": false,
-    "resourceName": "floorc20b3fc0",
+    "resourceName": "floor2181e216",
     "authSelections": "identityPoolAndUserPool",
     "authRoleArn": {
         "Fn::GetAtt": [
@@ -46,11 +45,6 @@
         ]
     },
     "useDefault": "default",
-    "triggers": "{}",
     "userPoolGroupList": [],
-    "parentStack": {
-        "Ref": "AWS::StackId"
-    },
-    "permissions": [],
     "dependsOn": []
 }

@@ -6,10 +6,11 @@
 		}
 	},
 	"auth": {
-		"floorc20b3fc0": {
+		"floor2181e216": {
 			"service": "Cognito",
 			"providerPlugin": "awscloudformation",
-			"dependsOn": []
+			"dependsOn": [],
+			"customAuth": false
 		}
 	}
 }
