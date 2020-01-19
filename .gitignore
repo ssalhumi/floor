@@ -36,9 +36,6 @@ awsconfiguration.json
 amplifyconfiguration.json
 amplify-gradle-config.json
 amplifyxc.config
-amplify/.config/project-config.json
-amplify/backend/auth/floor2181e216/floor2181e216-cloudformation-template.yml
-amplify/backend/auth/floor2181e216/parameters.json
 amplify/backend/backend-config.json
-amplify/backend/hosting/S3AndCloudFront/parameters.json
 amplify/team-provider-info.json
+amplify/backend/auth/floorf355c09b/
