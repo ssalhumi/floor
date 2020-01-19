@@ -2,9 +2,9 @@ import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
 
-import Amplify, { Auth } from "aws-amplify";
+import Amplify from "aws-amplify";
 import awsconfig from "./aws-exports";
-import { withAuthenticator, Authenticator } from "aws-amplify-react"; // or 'aws-amplify-react-native';
+import { withAuthenticator } from "aws-amplify-react"; // or 'aws-amplify-react-native';
 
 Amplify.configure(awsconfig);
 
